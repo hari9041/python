@@ -2,7 +2,7 @@ Harigovindh
 <br>
 <br>
 <br>
-<a href="https://github.com/hari9041/c-.git">Python</a>
+<a href="https://github.com/hari9041/c-.git">C++</a>
 <br>
 <br>
 <br>
