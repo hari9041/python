@@ -6,4 +6,15 @@ Hi welcome to my website
 <br>
 <br>
 <br>
-<img src="img1.jpeg" alt="best photo">
+<img src="img1.jpg" alt="best photo">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="img2.jpg" alt="best">
+
