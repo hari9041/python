@@ -6,7 +6,7 @@ Hi welcome to my website
 <br>
 <br>
 <br>
-<img src="hari" alt="logo">
+<img src="hari.jpg" alt="logo">
 <br>
 <br>
 <br>
